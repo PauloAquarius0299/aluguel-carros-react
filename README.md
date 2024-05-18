@@ -1,3 +1,27 @@
+![Captura de Tela (213)](https://github.com/PauloAquarius0299/aluguel-carros-react/assets/114706743/41f871d8-c3b7-457e-9e60-2c527671c657)
+# 🚗 Aluguel Carro Projeto
+Criei projeto frontend usando ReactJs e CSS 
+## 🚙 Introdução 
+Projeto apresenta um site com interface interativo com cores e fonte padrão do design na web, apresentando informações sobre aluguel de carro e informações do veiculo. Estilizado com CSS puro, utilizei o Bootstrap como framework, na raiz do projeto, para auxiliar na padronização e layout da interface.
+### 💡 Pre-Requisitos
+* Intalação do React
+* Intalação do Bootstrap
+* uso do Reactstrap
+### ⛏️ Ferramentas 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🚧 LINK
+https://aluguel-carro-react.netlify.app/home
+![Captura de Tela (214)](https://github.com/PauloAquarius0299/aluguel-carros-react/assets/114706743/07c5ba7d-7190-4a45-871b-6003eef8fed8)
+![Captura de Tela (215)](https://github.com/PauloAquarius0299/aluguel-carros-react/assets/114706743/2b1f1d0a-31af-4039-b406-19104a5411d4)
+![Captura de Tela (216)](https://github.com/PauloAquarius0299/aluguel-carros-react/assets/114706743/9e275514-9a8f-4254-bafe-7c31ce5414d9)
+![Captura de Tela (218)](https://github.com/PauloAquarius0299/aluguel-carros-react/assets/114706743/650fffd0-3fd3-4c92-ac87-1765da686049)
+![Captura de Tela (219)](https://github.com/PauloAquarius0299/aluguel-carros-react/assets/114706743/412819de-b4f6-43aa-8f3a-66426b9b55ab)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
