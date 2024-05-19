@@ -4,8 +4,13 @@ import "../../styles/find-car-form.css";
 import { Form, FormGroup } from "reactstrap";
 
 const FindCarForm = () => {
+
+    const cancelHandlerSubmit = (e) => {
+        e.preventDefault();
+    }
+
   return (
-    <Form className="form">
+    <Form className="form" onSubmit={(e) => {cancelHandlerSubmit(e)}}>
       <div className=" d-flex align-items-center justify-content-between flex-wrap">
         <FormGroup className="form__group">
           <input type="text" placeholder="Do endereço" required />
